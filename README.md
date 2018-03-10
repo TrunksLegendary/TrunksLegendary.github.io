@@ -8,5 +8,5 @@ New GitHub Web Page
 
 Link Test to Wiki
 
-[Projects](Trunks_Projects)
+[Projects](/wiki/Trunks_Projects)
 
