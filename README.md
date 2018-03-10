@@ -10,3 +10,4 @@ Link Test to Wiki
 
 [Projects](/wiki/Trunks_Projects)
 
+[[Link Text|Trunks_Projects]]
