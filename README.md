@@ -8,10 +8,10 @@ New GitHub Web Page
 
 Link Test to Wiki
 
-[Projects](../trunkslegendary.github.io/wiki/Trunks_Projects)
+[Projects](https://github.com/TrunksLegendary/trunkslegendary.github.io/wiki/Trunks_Projects.md)
 
-[[Link Text|Trunks_Projects]]
+
 
 ---
 {{ site.time | date_to_long_string }}
-
+---
