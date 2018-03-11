@@ -13,5 +13,3 @@ Link Test to Wiki
 [[Link Text|Trunks_Projects]]
 
 ---
-
-{{ site.time | date_to_string: "ordinal", "US" }}
